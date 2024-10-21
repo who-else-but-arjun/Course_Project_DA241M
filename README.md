@@ -6,7 +6,7 @@ This project implements a face recognition-based attendance system using several
 
 ### 1. **SRCNN.py**  
 - **Purpose:** Defines the SRCNN model used for image super-resolution.  
-- **Details:** Loads the pre-trained weights (`generator.h5`) to enhance image quality.  
+- **Details:** Loads the pre-trained weights to enhance image quality.  
 
 ### 2. **DeblurGANv2.py**  
 - **Purpose:** Implements the DeblurGANv2 model to remove blur from images.  
